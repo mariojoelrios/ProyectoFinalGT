@@ -1,8 +1,14 @@
-# React + Vite
+# FEEDBACK ELECTRIC 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Somos una empresa dedicada a los aparatos electricos, a la creacion y venta de los mismos, asi tambien indumentaria y herramientas del rubro. Pensada por y para los trabajadores.
 
-Currently, two official plugins are available:
+Por eso nuestro sitio web esta hecho pensado para que cualquer persona pueda utilizar 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# TECNOLOGIAS UTILIZADAS 
+
+* VITE REACT ( para hacer mas escalable nuestro codigo )
+* REACT BOOTSTRAP ( para darle la responsibilidad y adaptabilidad a las pantallas de nustros usuarios )
+
+***
+
+##### PROFE LUCIO PONGALA EN PAGINAS LINDAS O INVADO JERUSALEM 
