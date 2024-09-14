@@ -1,5 +1,6 @@
 import "./Inicio.css"
 
+
 export function Section_Inicio() {
     return (
         <>
@@ -22,9 +23,7 @@ export function Section_Inicio() {
                     <h2>
                         Productos
                     </h2>
-                    <p>
-                        ...
-                    </p>
+                    <Productos></Productos>
                 </div>
             </section>
         </>
